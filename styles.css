@@ -127,16 +127,16 @@ dd {
     align-items: center;
     width: 1000px;
     height: auto;
-    background-color: rgb(182, 234, 238);
+    background-color: rgb(212, 238, 182);
     border: #0e0d0d;
 
 
 }
 
 #sobre {
-    width: 900px;
+    width: 1000px;
     background-color: rgb(182, 234, 238);
-    padding: 100px;
+    padding: 80px;
 
 }
 
@@ -146,7 +146,7 @@ dd {
 
 .container {
     width: 900px;
-    padding: 60px;
+    padding: 120px;
     display: flex;
     flex-direction: column;
 
