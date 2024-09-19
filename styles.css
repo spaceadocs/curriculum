@@ -32,8 +32,12 @@ dd {
 
 }
 
-#foto {
-    border-radius: 100%;
+
+.img {
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+
 }
 
 #cabeca {
@@ -43,7 +47,7 @@ dd {
     height: 300px;
     background-color: rgb(233, 230, 230);
     display: flex;
-    margin-top: 2px
+    margin: 2px
 }
 
 #caixamaster {
@@ -57,7 +61,7 @@ dd {
 
 #sobre {
     background-color: white);
-    align-items: center;
+
 
 
 }
