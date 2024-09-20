@@ -88,7 +88,7 @@ dd {
     padding: 10px;
     width: 1000px;
     height: 300px;
-    background-color: rgb(93, 209, 245);
+    background-color: #8752ff;
     display: flex;
 }
 
@@ -98,18 +98,12 @@ dd {
     font-size: 50px;
     padding: 25px;
     margin: -1px;
-
-
-
 }
-
 
 
 #cargo {
     font-family: Inter-Bold, Helvetica, sans-serif;
     font-size: 20px;
-
-
 }
 
 #name ul {
@@ -122,25 +116,21 @@ dd {
     font-size: 20px;
     padding: 25px;
     margin: 12px;
-
-
+    text-align: end;
 }
 
 #caixamaster {
     align-items: center;
     width: 1000px;
     height: auto;
-    background-color: rgb(154, 222, 243);
+    background-color: #af9ef0;
     border: #0e0d0d;
-
-
 }
 
 #sobre {
     width: 1000px;
-    background-color: rgb(154, 222, 243);
-    padding: 120px;
-
+    background-color: #af9ef0;
+    padding: 0 100px;
 }
 
 #linha {
@@ -149,45 +139,35 @@ dd {
 
 .container {
     width: 900px;
-    padding: 120px;
+    padding: 0 100px;
     display: flex;
     flex-direction: column;
-
 }
 
 #exp {
-
-
     width: 65vw;
     height: auto;
-
-
 }
 
 #edu {
-
     width: 70vw;
     height: auto;
-
 }
 
 .container1 {
     width: 900px;
     height: auto;
     display: flex;
-
 }
 
 #int {
-
     width: 60vw;
     height: auto;
 }
 
 #idi {
+
     background-color: white);
     width: 60vw;
     height: auto;
-
-
 }
